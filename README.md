@@ -1,7 +1,7 @@
 # Multi-Exposure and Multi-Focus Image Fusion
 
 ### Overview
-This package is an implementation of the of the paper [Multi-exposure and Multi-focus Image Fusion in Gradient Domain](http://www.worldscientific.com/doi/pdf/10.1142/S0218126616501231), by [Sujoy Paul](http://www.ee.ucr.edu/~supaul/),  Ioana S. Sevcenco(http://www.ece.uvic.ca/~iss/) and d Panajotis Agathoklis(http://www.ece.uvic.ca/~panagath/) and published at [Journal of Circuits, Systems, and Computers
+This package is an implementation of the of the paper [Multi-exposure and Multi-focus Image Fusion in Gradient Domain](http://www.worldscientific.com/doi/pdf/10.1142/S0218126616501231), by [Sujoy Paul](http://www.ee.ucr.edu/~supaul/),  [Ioana S. Sevcenco](http://www.ece.uvic.ca/~iss/) and [Panajotis Agathoklis](http://www.ece.uvic.ca/~panagath/) and published at [Journal of Circuits, Systems, and Computers
 ](http://www.worldscientific.com/worldscinet/jcsc).
 
 ### Dependencies
